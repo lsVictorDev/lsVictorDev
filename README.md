@@ -35,7 +35,7 @@ Atualmente, estudo e pratico diariamente desenvolvimento de software, sempre bus
 ## 🐍 Minhas contribuições ganhando vida
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lsVictorDev/lsVictorDev/output/snake.svg" alt="Snake animation" />
 </p>
 
 > A cobrinha representa minha evolução contínua através dos commits 🟩⬛
